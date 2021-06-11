@@ -1,0 +1,8 @@
+@charset "UTF-8";
+div#area{
+    background: green;
+    color: white;
+    width: 200px;
+    line-height:200px;
+    text-align: center;
+}
